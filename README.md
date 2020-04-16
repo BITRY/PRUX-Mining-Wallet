@@ -41,17 +41,8 @@ The contribution workflow is described in official BT-Thread
 
 NEXT STEPS
 ----------
-1) Adding tor as Standard ( We can use some code from Torcoin )
-2) Better Network connectivity, better node links. 
-3) More Exchanges and pools
-4) We will holding so much of Satoshis Original Code as possible, but we need small change for future.
-5) We have to watch on the used ram of prux daemon, maybe in future we have to find a way to strip pruxcoind, less ram ussage. We got the biggest Satoshoi modell  blockchain, now or in future. This is one of the difficulties that the PURX blockchain will become very big and we need solutions.
-6)
-7)
-8)
-..
-22) Update PRUX-Core and integrade merged mining, if somebody can help with code and testing, your welcome.
-planed in future, but only think about.
+-more user
+-more exchanges
 
 
 INSTALL INFORMATION
@@ -66,7 +57,7 @@ https://prux.mastermining.net/site/mining
 
 EXCHANGES
 ---------
-https://ex.xbts.io/#/market/PRUX_BTS    ( Sould be ready End of April 2020 )
+https://ex.xbts.io/#/market/XBTSX.PRUX_BTS
 
 
 UBUNTU 14.04 BUILD NOTES
@@ -112,8 +103,7 @@ cd src
 
 chmod +x leveldb/build_detect_platform
 
-againThis is one of the difficulties that the PURX blockchain will become very big and we need solutions.
-
+again
 
 
 Running
@@ -143,18 +133,8 @@ addnode=50.232.104.35
 
 addnode=109.195.103.14
 
-addnode=217.115.116.200
-
-addnode=51.81.254.26
-
-addnode=142.44.133.95
-
-addnode=77.239.55.52
 
 Testing
 -------
 
 You are all welcome to help and improve PRUX-Core
-
-
-
