@@ -31,6 +31,13 @@ Mined Block Confirmation : 274
 Total Supply : After 90 Years only ~104k 
 Premine = ZERO
 
+Yiimp Pool settings are...
+-------------------
+Has getinfo = True
+Has submitblock = false
+Txmessage = True
+RPC Type = POW
+
 
 Development Process
 -------------------
